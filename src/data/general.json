@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "general-001",
+    "target": "Heladera",
+    "forbidden": [
+      "Frío",
+      "Cocina",
+      "Comida",
+      "Freezer",
+      "Conservar"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-002",
+    "target": "Paraguas",
+    "forbidden": [
+      "Lluvia",
+      "Mojar",
+      "Abrir",
+      "Agua",
+      "Protección"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-003",
+    "target": "Biblioteca",
+    "forbidden": [
+      "Libro",
+      "Leer",
+      "Estante",
+      "Silencio",
+      "Préstamo"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-004",
+    "target": "Bicicleta",
+    "forbidden": [
+      "Pedal",
+      "Rueda",
+      "Manubrio",
+      "Cadena",
+      "Andar"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-005",
+    "target": "Almohada",
+    "forbidden": [
+      "Dormir",
+      "Cama",
+      "Cabeza",
+      "Pluma",
+      "Descanso"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-006",
+    "target": "Espejo",
+    "forbidden": [
+      "Reflejo",
+      "Imagen",
+      "Vidrio",
+      "Mirar",
+      "Baño"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-007",
+    "target": "Ventana",
+    "forbidden": [
+      "Vidrio",
+      "Casa",
+      "Abrir",
+      "Luz",
+      "Cortina"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-008",
+    "target": "Semáforo",
+    "forbidden": [
+      "Rojo",
+      "Verde",
+      "Amarillo",
+      "Tránsito",
+      "Cruce"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-009",
+    "target": "Ascensor",
+    "forbidden": [
+      "Piso",
+      "Subir",
+      "Bajar",
+      "Edificio",
+      "Botón"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-010",
+    "target": "Escalera",
+    "forbidden": [
+      "Peldaño",
+      "Subir",
+      "Bajar",
+      "Altura",
+      "Escalón"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-011",
+    "target": "Mochila",
+    "forbidden": [
+      "Espalda",
+      "Escuela",
+      "Bolso",
+      "Guardar",
+      "Correa"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-012",
+    "target": "Reloj",
+    "forbidden": [
+      "Hora",
+      "Minuto",
+      "Tiempo",
+      "Aguja",
+      "Pulsera"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-013",
+    "target": "Zapato",
+    "forbidden": [
+      "Pie",
+      "Cordón",
+      "Suela",
+      "Calzado",
+      "Caminar"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-014",
+    "target": "Sombrero",
+    "forbidden": [
+      "Cabeza",
+      "Ala",
+      "Sol",
+      "Gorra",
+      "Usar"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-015",
+    "target": "Cepillo",
+    "forbidden": [
+      "Pelo",
+      "Diente",
+      "Cerda",
+      "Peinar",
+      "Limpiar"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-016",
+    "target": "Jabón",
+    "forbidden": [
+      "Lavar",
+      "Espuma",
+      "Limpio",
+      "Baño",
+      "Agua"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-017",
+    "target": "Toalla",
+    "forbidden": [
+      "Secar",
+      "Baño",
+      "Tela",
+      "Ducha",
+      "Húmedo"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-018",
+    "target": "Perfume",
+    "forbidden": [
+      "Olor",
+      "Fragancia",
+      "Frasco",
+      "Rociar",
+      "Aroma"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-019",
+    "target": "Llave",
+    "forbidden": [
+      "Puerta",
+      "Cerradura",
+      "Abrir",
+      "Cerrar",
+      "Metal"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-020",
+    "target": "Candado",
+    "forbidden": [
+      "Llave",
+      "Seguridad",
+      "Cerrar",
+      "Cadena",
+      "Código"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-021",
+    "target": "Tijera",
+    "forbidden": [
+      "Cortar",
+      "Papel",
+      "Hoja",
+      "Filo",
+      "Mango"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-022",
+    "target": "Pegamento",
+    "forbidden": [
+      "Pegar",
+      "Unir",
+      "Cola",
+      "Adhesivo",
+      "Secar"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-023",
+    "target": "Lápiz",
+    "forbidden": [
+      "Escribir",
+      "Grafito",
+      "Punta",
+      "Goma",
+      "Dibujar"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-024",
+    "target": "Cuaderno",
+    "forbidden": [
+      "Hoja",
+      "Escribir",
+      "Escuela",
+      "Espiral",
+      "Apunte"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-025",
+    "target": "Mapa",
+    "forbidden": [
+      "Lugar",
+      "País",
+      "Ubicación",
+      "Camino",
+      "Geografía"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-026",
+    "target": "Brújula",
+    "forbidden": [
+      "Norte",
+      "Orientación",
+      "Aguja",
+      "Sur",
+      "Dirección"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-027",
+    "target": "Maleta",
+    "forbidden": [
+      "Viaje",
+      "Equipaje",
+      "Ropa",
+      "Valija",
+      "Aeropuerto"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-028",
+    "target": "Pasaporte",
+    "forbidden": [
+      "Viajar",
+      "Documento",
+      "País",
+      "Frontera",
+      "Sello"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-029",
+    "target": "Avión",
+    "forbidden": [
+      "Volar",
+      "Ala",
+      "Piloto",
+      "Aeropuerto",
+      "Cielo"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-030",
+    "target": "Barco",
+    "forbidden": [
+      "Agua",
+      "Mar",
+      "Navegar",
+      "Puerto",
+      "Capitán"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-031",
+    "target": "Tren",
+    "forbidden": [
+      "Vía",
+      "Estación",
+      "Vagón",
+      "Locomotora",
+      "Riel"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-032",
+    "target": "Camión",
+    "forbidden": [
+      "Carga",
+      "Rueda",
+      "Transporte",
+      "Chofer",
+      "Grande"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-033",
+    "target": "Motocicleta",
+    "forbidden": [
+      "Moto",
+      "Casco",
+      "Rueda",
+      "Motor",
+      "Manubrio"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-034",
+    "target": "Taxi",
+    "forbidden": [
+      "Viaje",
+      "Chofer",
+      "Pasajero",
+      "Auto",
+      "Tarifa"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-035",
+    "target": "Puente",
+    "forbidden": [
+      "Cruzar",
+      "Río",
+      "Orilla",
+      "Estructura",
+      "Unir"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-036",
+    "target": "Túnel",
+    "forbidden": [
+      "Debajo",
+      "Oscuro",
+      "Pasar",
+      "Montaña",
+      "Subterráneo"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-037",
+    "target": "Playa",
+    "forbidden": [
+      "Arena",
+      "Mar",
+      "Sol",
+      "Vacaciones",
+      "Ola"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-038",
+    "target": "Montaña",
+    "forbidden": [
+      "Altura",
+      "Cumbre",
+      "Escalar",
+      "Nieve",
+      "Cerro"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-039",
+    "target": "Bosque",
+    "forbidden": [
+      "Árbol",
+      "Naturaleza",
+      "Madera",
+      "Sendero",
+      "Verde"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-040",
+    "target": "Desierto",
+    "forbidden": [
+      "Arena",
+      "Calor",
+      "Seco",
+      "Agua",
+      "Cactus"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-041",
+    "target": "Isla",
+    "forbidden": [
+      "Agua",
+      "Mar",
+      "Tierra",
+      "Rodeada",
+      "Continente"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-042",
+    "target": "Volcán",
+    "forbidden": [
+      "Lava",
+      "Erupción",
+      "Fuego",
+      "Cráter",
+      "Montaña"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-043",
+    "target": "Arcoíris",
+    "forbidden": [
+      "Color",
+      "Lluvia",
+      "Sol",
+      "Cielo",
+      "Arco"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-044",
+    "target": "Tormenta",
+    "forbidden": [
+      "Lluvia",
+      "Trueno",
+      "Rayo",
+      "Viento",
+      "Nube"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-045",
+    "target": "Nieve",
+    "forbidden": [
+      "Blanco",
+      "Frío",
+      "Hielo",
+      "Invierno",
+      "Copo"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-046",
+    "target": "Estrella",
+    "forbidden": [
+      "Cielo",
+      "Noche",
+      "Brillar",
+      "Sol",
+      "Constelación"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-047",
+    "target": "Luna",
+    "forbidden": [
+      "Noche",
+      "Satélite",
+      "Tierra",
+      "Cráter",
+      "Fase"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-048",
+    "target": "Planeta",
+    "forbidden": [
+      "Espacio",
+      "Órbita",
+      "Tierra",
+      "Sol",
+      "Marte"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-049",
+    "target": "Flor",
+    "forbidden": [
+      "Pétalo",
+      "Planta",
+      "Perfume",
+      "Jardín",
+      "Ramo"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-050",
+    "target": "Semilla",
+    "forbidden": [
+      "Planta",
+      "Crecer",
+      "Tierra",
+      "Sembrar",
+      "Fruto"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-051",
+    "target": "Raíz",
+    "forbidden": [
+      "Árbol",
+      "Tierra",
+      "Planta",
+      "Absorber",
+      "Subterránea"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-052",
+    "target": "Mariposa",
+    "forbidden": [
+      "Ala",
+      "Insecto",
+      "Oruga",
+      "Color",
+      "Volar"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-053",
+    "target": "Abeja",
+    "forbidden": [
+      "Miel",
+      "Picadura",
+      "Colmena",
+      "Insecto",
+      "Flor"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-054",
+    "target": "Hormiga",
+    "forbidden": [
+      "Insecto",
+      "Hormiguero",
+      "Pequeña",
+      "Trabajo",
+      "Fila"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-055",
+    "target": "Araña",
+    "forbidden": [
+      "Ocho",
+      "Telaraña",
+      "Pata",
+      "Insecto",
+      "Tejer"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-056",
+    "target": "Perro",
+    "forbidden": [
+      "Ladrar",
+      "Mascota",
+      "Canino",
+      "Cola",
+      "Hueso"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-057",
+    "target": "Gato",
+    "forbidden": [
+      "Maullar",
+      "Mascota",
+      "Felino",
+      "Bigote",
+      "Ronronear"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-058",
+    "target": "Caballo",
+    "forbidden": [
+      "Montar",
+      "Relinchar",
+      "Crin",
+      "Establo",
+      "Galope"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-059",
+    "target": "Elefante",
+    "forbidden": [
+      "Trompa",
+      "Grande",
+      "Colmillo",
+      "África",
+      "Oreja"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-060",
+    "target": "Jirafa",
+    "forbidden": [
+      "Cuello",
+      "Alta",
+      "Mancha",
+      "África",
+      "Animal"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-061",
+    "target": "León",
+    "forbidden": [
+      "Melena",
+      "Felino",
+      "Rey",
+      "Rugir",
+      "Selva"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-062",
+    "target": "Delfín",
+    "forbidden": [
+      "Mar",
+      "Mamífero",
+      "Nadar",
+      "Salto",
+      "Aleta"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-063",
+    "target": "Tiburón",
+    "forbidden": [
+      "Diente",
+      "Mar",
+      "Aleta",
+      "Depredador",
+      "Pez"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-064",
+    "target": "Pingüino",
+    "forbidden": [
+      "Frío",
+      "Ave",
+      "Antártida",
+      "Blanco",
+      "Negro"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-065",
+    "target": "Tortuga",
+    "forbidden": [
+      "Caparazón",
+      "Lenta",
+      "Reptil",
+      "Verde",
+      "Mar"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-066",
+    "target": "Cocodrilo",
+    "forbidden": [
+      "Reptil",
+      "Diente",
+      "Río",
+      "Pantano",
+      "Escama"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-067",
+    "target": "Murciélago",
+    "forbidden": [
+      "Noche",
+      "Volar",
+      "Cueva",
+      "Mamífero",
+      "Vampiro"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-068",
+    "target": "Conejo",
+    "forbidden": [
+      "Oreja",
+      "Zanahoria",
+      "Saltar",
+      "Pelaje",
+      "Madriguera"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-069",
+    "target": "Gallina",
+    "forbidden": [
+      "Huevo",
+      "Granja",
+      "Pluma",
+      "Gallo",
+      "Cacarear"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-070",
+    "target": "Vaca",
+    "forbidden": [
+      "Leche",
+      "Granja",
+      "Mugir",
+      "Cuerno",
+      "Ternero"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-071",
+    "target": "Pan",
+    "forbidden": [
+      "Harina",
+      "Horno",
+      "Miga",
+      "Corteza",
+      "Levadura"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-072",
+    "target": "Queso",
+    "forbidden": [
+      "Leche",
+      "Lácteo",
+      "Sándwich",
+      "Fermentar",
+      "Rallar"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-073",
+    "target": "Chocolate",
+    "forbidden": [
+      "Cacao",
+      "Dulce",
+      "Tableta",
+      "Marrón",
+      "Bombón"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-074",
+    "target": "Helado",
+    "forbidden": [
+      "Frío",
+      "Dulce",
+      "Cucurucho",
+      "Crema",
+      "Sabor"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-075",
+    "target": "Pizza",
+    "forbidden": [
+      "Masa",
+      "Queso",
+      "Tomate",
+      "Horno",
+      "Porción"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-076",
+    "target": "Ensalada",
+    "forbidden": [
+      "Verdura",
+      "Lechuga",
+      "Tomate",
+      "Aceite",
+      "Mezclar"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-077",
+    "target": "Sopa",
+    "forbidden": [
+      "Caldo",
+      "Cuchara",
+      "Caliente",
+      "Plato",
+      "Líquido"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-078",
+    "target": "Huevo",
+    "forbidden": [
+      "Gallina",
+      "Cáscara",
+      "Yema",
+      "Clara",
+      "Freír"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-079",
+    "target": "Manzana",
+    "forbidden": [
+      "Fruta",
+      "Rojo",
+      "Árbol",
+      "Semilla",
+      "Computadora"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-080",
+    "target": "Banana",
+    "forbidden": [
+      "Fruta",
+      "Amarilla",
+      "Cáscara",
+      "Mono",
+      "Curva"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-081",
+    "target": "Limón",
+    "forbidden": [
+      "Ácido",
+      "Cítrico",
+      "Amarillo",
+      "Jugo",
+      "Fruta"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-082",
+    "target": "Sandía",
+    "forbidden": [
+      "Fruta",
+      "Verde",
+      "Roja",
+      "Semilla",
+      "Verano"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-083",
+    "target": "Zanahoria",
+    "forbidden": [
+      "Naranja",
+      "Verdura",
+      "Conejo",
+      "Raíz",
+      "Ensalada"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-084",
+    "target": "Tomate",
+    "forbidden": [
+      "Rojo",
+      "Ensalada",
+      "Salsa",
+      "Fruto",
+      "Semilla"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-085",
+    "target": "Papa",
+    "forbidden": [
+      "Tubérculo",
+      "Frita",
+      "Puré",
+      "Tierra",
+      "Almidón"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-086",
+    "target": "Cebolla",
+    "forbidden": [
+      "Llorar",
+      "Verdura",
+      "Capa",
+      "Cortar",
+      "Aro"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-087",
+    "target": "Cumpleaños",
+    "forbidden": [
+      "Torta",
+      "Vela",
+      "Edad",
+      "Fiesta",
+      "Regalo"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-088",
+    "target": "Casamiento",
+    "forbidden": [
+      "Boda",
+      "Novio",
+      "Anillo",
+      "Vestido",
+      "Matrimonio"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-089",
+    "target": "Regalo",
+    "forbidden": [
+      "Sorpresa",
+      "Paquete",
+      "Obsequio",
+      "Cumpleaños",
+      "Moño"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-090",
+    "target": "Vacaciones",
+    "forbidden": [
+      "Descanso",
+      "Viaje",
+      "Verano",
+      "Playa",
+      "Trabajo"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-091",
+    "target": "Hospital",
+    "forbidden": [
+      "Médico",
+      "Enfermo",
+      "Enfermero",
+      "Salud",
+      "Cama"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-092",
+    "target": "Farmacia",
+    "forbidden": [
+      "Remedio",
+      "Medicamento",
+      "Receta",
+      "Salud",
+      "Comprar"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-093",
+    "target": "Bombero",
+    "forbidden": [
+      "Fuego",
+      "Incendio",
+      "Manguera",
+      "Rescate",
+      "Camión"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-094",
+    "target": "Dentista",
+    "forbidden": [
+      "Diente",
+      "Muela",
+      "Caries",
+      "Boca",
+      "Torno"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-095",
+    "target": "Cocinero",
+    "forbidden": [
+      "Comida",
+      "Cocina",
+      "Chef",
+      "Receta",
+      "Restaurante"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-096",
+    "target": "Jardinero",
+    "forbidden": [
+      "Planta",
+      "Jardín",
+      "Regar",
+      "Poda",
+      "Pasto"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-097",
+    "target": "Carpintero",
+    "forbidden": [
+      "Madera",
+      "Mueble",
+      "Martillo",
+      "Sierra",
+      "Clavo"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-098",
+    "target": "Fotógrafo",
+    "forbidden": [
+      "Foto",
+      "Cámara",
+      "Imagen",
+      "Lente",
+      "Retrato"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-099",
+    "target": "Cartero",
+    "forbidden": [
+      "Carta",
+      "Correo",
+      "Entrega",
+      "Sobre",
+      "Dirección"
+    ],
+    "vocabulary": "general"
+  },
+  {
+    "id": "general-100",
+    "target": "Astronauta",
+    "forbidden": [
+      "Espacio",
+      "Cohete",
+      "Traje",
+      "Luna",
+      "Nave"
+    ],
+    "vocabulary": "general"
+  }
+]

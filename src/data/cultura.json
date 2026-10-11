@@ -1,0 +1,602 @@
+[
+  {
+    "id": "cultura-001",
+    "target": "Película",
+    "forbidden": [
+      "Cine",
+      "Actor",
+      "Director",
+      "Pantalla",
+      "Film"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-002",
+    "target": "Escenario",
+    "forbidden": [
+      "Teatro",
+      "Actor",
+      "Telón",
+      "Obra",
+      "Público"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-003",
+    "target": "Videojuego",
+    "forbidden": [
+      "Jugar",
+      "Consola",
+      "Control",
+      "Pantalla",
+      "Nivel"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-004",
+    "target": "Guitarra",
+    "forbidden": [
+      "Cuerda",
+      "Instrumento",
+      "Música",
+      "Tocar",
+      "Acústica"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-005",
+    "target": "Piano",
+    "forbidden": [
+      "Tecla",
+      "Instrumento",
+      "Música",
+      "Blanco",
+      "Negro"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-006",
+    "target": "Batería musical",
+    "forbidden": [
+      "Tambor",
+      "Platillo",
+      "Percusión",
+      "Baqueta",
+      "Ritmo"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-007",
+    "target": "Violín",
+    "forbidden": [
+      "Arco",
+      "Cuerda",
+      "Instrumento",
+      "Orquesta",
+      "Música"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-008",
+    "target": "Flauta",
+    "forbidden": [
+      "Soplar",
+      "Viento",
+      "Instrumento",
+      "Agujero",
+      "Música"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-009",
+    "target": "Saxofón",
+    "forbidden": [
+      "Jazz",
+      "Viento",
+      "Instrumento",
+      "Soplar",
+      "Metal"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-010",
+    "target": "Micrófono",
+    "forbidden": [
+      "Voz",
+      "Amplificar",
+      "Cantar",
+      "Sonido",
+      "Escenario"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-011",
+    "target": "Auriculares",
+    "forbidden": [
+      "Oído",
+      "Música",
+      "Escuchar",
+      "Sonido",
+      "Cable"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-012",
+    "target": "Concierto",
+    "forbidden": [
+      "Música",
+      "Banda",
+      "Vivo",
+      "Escenario",
+      "Público"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-013",
+    "target": "Orquesta",
+    "forbidden": [
+      "Músico",
+      "Director",
+      "Instrumento",
+      "Clásica",
+      "Concierto"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-014",
+    "target": "Cantante",
+    "forbidden": [
+      "Voz",
+      "Canción",
+      "Música",
+      "Micrófono",
+      "Cantar"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-015",
+    "target": "Director de cine",
+    "forbidden": [
+      "Película",
+      "Actor",
+      "Cámara",
+      "Rodar",
+      "Filmación"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-016",
+    "target": "Guion",
+    "forbidden": [
+      "Diálogo",
+      "Historia",
+      "Película",
+      "Escribir",
+      "Escena"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-017",
+    "target": "Subtítulo",
+    "forbidden": [
+      "Texto",
+      "Traducción",
+      "Pantalla",
+      "Leer",
+      "Idioma"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-018",
+    "target": "Documental",
+    "forbidden": [
+      "Realidad",
+      "Film",
+      "Información",
+      "Historia",
+      "Investigación"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-019",
+    "target": "Animación",
+    "forbidden": [
+      "Dibujo",
+      "Movimiento",
+      "Película",
+      "Caricatura",
+      "Cuadro"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-020",
+    "target": "Comedia",
+    "forbidden": [
+      "Risa",
+      "Humor",
+      "Chiste",
+      "Gracioso",
+      "Película"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-021",
+    "target": "Suspenso",
+    "forbidden": [
+      "Tensión",
+      "Misterio",
+      "Intriga",
+      "Espera",
+      "Thriller"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-022",
+    "target": "Novela",
+    "forbidden": [
+      "Libro",
+      "Historia",
+      "Capítulo",
+      "Autor",
+      "Ficción"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-023",
+    "target": "Poesía",
+    "forbidden": [
+      "Verso",
+      "Rima",
+      "Poema",
+      "Estrofa",
+      "Escribir"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-024",
+    "target": "Historieta",
+    "forbidden": [
+      "Viñeta",
+      "Dibujo",
+      "Globo",
+      "Cómic",
+      "Personaje"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-025",
+    "target": "Fábula",
+    "forbidden": [
+      "Moraleja",
+      "Animal",
+      "Relato",
+      "Enseñanza",
+      "Cuento"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-026",
+    "target": "Leyenda",
+    "forbidden": [
+      "Tradición",
+      "Relato",
+      "Mito",
+      "Historia",
+      "Popular"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-027",
+    "target": "Museo",
+    "forbidden": [
+      "Arte",
+      "Exposición",
+      "Obra",
+      "Historia",
+      "Visitar"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-028",
+    "target": "Escultura",
+    "forbidden": [
+      "Estatua",
+      "Forma",
+      "Arte",
+      "Piedra",
+      "Tallar"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-029",
+    "target": "Pintura",
+    "forbidden": [
+      "Pincel",
+      "Color",
+      "Lienzo",
+      "Arte",
+      "Cuadro"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-030",
+    "target": "Acuarela",
+    "forbidden": [
+      "Agua",
+      "Pintura",
+      "Color",
+      "Papel",
+      "Pincel"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-031",
+    "target": "Origami",
+    "forbidden": [
+      "Papel",
+      "Doblar",
+      "Figura",
+      "Japón",
+      "Grulla"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-032",
+    "target": "Cerámica",
+    "forbidden": [
+      "Barro",
+      "Arcilla",
+      "Horno",
+      "Vasija",
+      "Arte"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-033",
+    "target": "Grafiti",
+    "forbidden": [
+      "Pared",
+      "Aerosol",
+      "Pintar",
+      "Calle",
+      "Mural"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-034",
+    "target": "Disfraz",
+    "forbidden": [
+      "Ropa",
+      "Personaje",
+      "Carnaval",
+      "Traje",
+      "Fiesta"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-035",
+    "target": "Magia",
+    "forbidden": [
+      "Truco",
+      "Ilusión",
+      "Mago",
+      "Conejo",
+      "Sombrero"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-036",
+    "target": "Circo",
+    "forbidden": [
+      "Carpa",
+      "Payaso",
+      "Acrobacia",
+      "Malabarista",
+      "Espectáculo"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-037",
+    "target": "Malabares",
+    "forbidden": [
+      "Pelota",
+      "Lanzar",
+      "Mano",
+      "Circo",
+      "Equilibrio"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-038",
+    "target": "Títere",
+    "forbidden": [
+      "Muñeco",
+      "Mano",
+      "Teatro",
+      "Hilo",
+      "Personaje"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-039",
+    "target": "Marioneta",
+    "forbidden": [
+      "Hilo",
+      "Muñeco",
+      "Teatro",
+      "Mover",
+      "Madera"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-040",
+    "target": "Ajedrez",
+    "forbidden": [
+      "Rey",
+      "Reina",
+      "Tablero",
+      "Jaque",
+      "Pieza"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-041",
+    "target": "Dominó",
+    "forbidden": [
+      "Ficha",
+      "Punto",
+      "Mesa",
+      "Doble",
+      "Juego"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-042",
+    "target": "Rompecabezas",
+    "forbidden": [
+      "Pieza",
+      "Armar",
+      "Imagen",
+      "Encajar",
+      "Completar"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-043",
+    "target": "Karaoke",
+    "forbidden": [
+      "Cantar",
+      "Música",
+      "Letra",
+      "Micrófono",
+      "Pantalla"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-044",
+    "target": "Festival",
+    "forbidden": [
+      "Música",
+      "Evento",
+      "Artista",
+      "Escenario",
+      "Público"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-045",
+    "target": "Podcast",
+    "forbidden": [
+      "Audio",
+      "Episodio",
+      "Escuchar",
+      "Voz",
+      "Programa"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-046",
+    "target": "Radio",
+    "forbidden": [
+      "Escuchar",
+      "Frecuencia",
+      "Locutor",
+      "Emisora",
+      "Antena"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-047",
+    "target": "Televisión",
+    "forbidden": [
+      "Pantalla",
+      "Canal",
+      "Programa",
+      "Control",
+      "Ver"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-048",
+    "target": "Fotografía",
+    "forbidden": [
+      "Cámara",
+      "Imagen",
+      "Lente",
+      "Retrato",
+      "Foto"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-049",
+    "target": "Vinilo",
+    "forbidden": [
+      "Disco",
+      "Música",
+      "Tocadiscos",
+      "Aguja",
+      "Surco"
+    ],
+    "vocabulary": "cultura"
+  },
+  {
+    "id": "cultura-050",
+    "target": "Libro electrónico",
+    "forbidden": [
+      "Leer",
+      "Pantalla",
+      "Digital",
+      "Texto",
+      "Lector"
+    ],
+    "vocabulary": "cultura"
+  }
+]

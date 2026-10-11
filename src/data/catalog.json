@@ -1,0 +1,22 @@
+[
+  {
+    "id": "general",
+    "count": 100
+  },
+  {
+    "id": "argentina",
+    "count": 60
+  },
+  {
+    "id": "cultura",
+    "count": 50
+  },
+  {
+    "id": "deportes",
+    "count": 50
+  },
+  {
+    "id": "tecnologia",
+    "count": 40
+  }
+]

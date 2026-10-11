@@ -1,0 +1,482 @@
+[
+  {
+    "id": "tecnologia-001",
+    "target": "Contraseña",
+    "forbidden": [
+      "Clave",
+      "Seguridad",
+      "Acceso",
+      "Secreto",
+      "Usuario"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-002",
+    "target": "Teclado",
+    "forbidden": [
+      "Tecla",
+      "Escribir",
+      "Letra",
+      "Computadora",
+      "Enter"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-003",
+    "target": "Navegador",
+    "forbidden": [
+      "Internet",
+      "Web",
+      "Página",
+      "Pestaña",
+      "Chrome"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-004",
+    "target": "Computadora",
+    "forbidden": [
+      "Pantalla",
+      "Teclado",
+      "Procesador",
+      "PC",
+      "Programa"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-005",
+    "target": "Celular",
+    "forbidden": [
+      "Teléfono",
+      "Llamar",
+      "Pantalla",
+      "Mensaje",
+      "Portátil"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-006",
+    "target": "Tableta",
+    "forbidden": [
+      "Pantalla",
+      "Táctil",
+      "Portátil",
+      "Dispositivo",
+      "Aplicación"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-007",
+    "target": "Ratón",
+    "forbidden": [
+      "Mouse",
+      "Clic",
+      "Puntero",
+      "Computadora",
+      "Botón"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-008",
+    "target": "Monitor",
+    "forbidden": [
+      "Pantalla",
+      "Imagen",
+      "Computadora",
+      "Ver",
+      "Escritorio"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-009",
+    "target": "Impresora",
+    "forbidden": [
+      "Papel",
+      "Tinta",
+      "Imprimir",
+      "Documento",
+      "Copia"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-010",
+    "target": "Escáner",
+    "forbidden": [
+      "Digitalizar",
+      "Documento",
+      "Imagen",
+      "Papel",
+      "Leer"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-011",
+    "target": "Router",
+    "forbidden": [
+      "Internet",
+      "Red",
+      "Wifi",
+      "Conexión",
+      "Señal"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-012",
+    "target": "Wifi",
+    "forbidden": [
+      "Inalámbrico",
+      "Internet",
+      "Red",
+      "Señal",
+      "Router"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-013",
+    "target": "Bluetooth",
+    "forbidden": [
+      "Inalámbrico",
+      "Conectar",
+      "Dispositivo",
+      "Corto alcance",
+      "Auricular"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-014",
+    "target": "Cable USB",
+    "forbidden": [
+      "Conectar",
+      "Puerto",
+      "Cargar",
+      "Datos",
+      "Enchufe"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-015",
+    "target": "Batería",
+    "forbidden": [
+      "Energía",
+      "Carga",
+      "Duración",
+      "Pila",
+      "Electricidad"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-016",
+    "target": "Cargador",
+    "forbidden": [
+      "Batería",
+      "Enchufe",
+      "Energía",
+      "Cable",
+      "Celular"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-017",
+    "target": "Aplicación",
+    "forbidden": [
+      "Programa",
+      "Celular",
+      "Instalar",
+      "Software",
+      "App"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-018",
+    "target": "Correo electrónico",
+    "forbidden": [
+      "Email",
+      "Mensaje",
+      "Bandeja",
+      "Enviar",
+      "Dirección"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-019",
+    "target": "Videollamada",
+    "forbidden": [
+      "Cámara",
+      "Hablar",
+      "Pantalla",
+      "Internet",
+      "Reunión"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-020",
+    "target": "Notificación",
+    "forbidden": [
+      "Aviso",
+      "Mensaje",
+      "Alerta",
+      "Sonido",
+      "Aplicación"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-021",
+    "target": "Copia de seguridad",
+    "forbidden": [
+      "Respaldo",
+      "Datos",
+      "Guardar",
+      "Recuperar",
+      "Backup"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-022",
+    "target": "Nube",
+    "forbidden": [
+      "Internet",
+      "Almacenamiento",
+      "Servidor",
+      "Archivo",
+      "Remoto"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-023",
+    "target": "Servidor",
+    "forbidden": [
+      "Red",
+      "Datos",
+      "Cliente",
+      "Computadora",
+      "Servicio"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-024",
+    "target": "Base de datos",
+    "forbidden": [
+      "Tabla",
+      "Registro",
+      "Información",
+      "Consulta",
+      "Almacenar"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-025",
+    "target": "Programación",
+    "forbidden": [
+      "Código",
+      "Software",
+      "Lenguaje",
+      "Desarrollar",
+      "Algoritmo"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-026",
+    "target": "Algoritmo",
+    "forbidden": [
+      "Paso",
+      "Instrucción",
+      "Problema",
+      "Secuencia",
+      "Resolver"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-027",
+    "target": "Código QR",
+    "forbidden": [
+      "Escanear",
+      "Cuadrado",
+      "Cámara",
+      "Enlace",
+      "Patrón"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-028",
+    "target": "Enlace",
+    "forbidden": [
+      "Link",
+      "Página",
+      "Clic",
+      "Dirección",
+      "Web"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-029",
+    "target": "Buscador",
+    "forbidden": [
+      "Buscar",
+      "Google",
+      "Resultado",
+      "Internet",
+      "Consulta"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-030",
+    "target": "Pestaña",
+    "forbidden": [
+      "Navegador",
+      "Ventana",
+      "Abrir",
+      "Página",
+      "Web"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-031",
+    "target": "Archivo",
+    "forbidden": [
+      "Documento",
+      "Guardar",
+      "Carpeta",
+      "Nombre",
+      "Extensión"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-032",
+    "target": "Carpeta",
+    "forbidden": [
+      "Archivo",
+      "Organizar",
+      "Directorio",
+      "Guardar",
+      "Documento"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-033",
+    "target": "Descarga",
+    "forbidden": [
+      "Internet",
+      "Archivo",
+      "Bajar",
+      "Guardar",
+      "Transferir"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-034",
+    "target": "Actualización",
+    "forbidden": [
+      "Versión",
+      "Mejora",
+      "Instalar",
+      "Software",
+      "Nueva"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-035",
+    "target": "Antivirus",
+    "forbidden": [
+      "Virus",
+      "Protección",
+      "Malware",
+      "Seguridad",
+      "Programa"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-036",
+    "target": "Firewall",
+    "forbidden": [
+      "Seguridad",
+      "Red",
+      "Tráfico",
+      "Bloquear",
+      "Cortafuegos"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-037",
+    "target": "Inteligencia artificial",
+    "forbidden": [
+      "Aprender",
+      "Modelo",
+      "Datos",
+      "Automático",
+      "Algoritmo"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-038",
+    "target": "Robot",
+    "forbidden": [
+      "Máquina",
+      "Automático",
+      "Programar",
+      "Metal",
+      "Movimiento"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-039",
+    "target": "Realidad virtual",
+    "forbidden": [
+      "Gafas",
+      "Inmersión",
+      "Mundo",
+      "Simulación",
+      "Digital"
+    ],
+    "vocabulary": "tecnologia"
+  },
+  {
+    "id": "tecnologia-040",
+    "target": "Captura de pantalla",
+    "forbidden": [
+      "Imagen",
+      "Foto",
+      "Monitor",
+      "Guardar",
+      "Screenshot"
+    ],
+    "vocabulary": "tecnologia"
+  }
+]

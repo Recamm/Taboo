@@ -1,0 +1,305 @@
+[general]
+Heladera|Frío,Cocina,Comida,Freezer,Conservar
+Paraguas|Lluvia,Mojar,Abrir,Agua,Protección
+Biblioteca|Libro,Leer,Estante,Silencio,Préstamo
+Bicicleta|Pedal,Rueda,Manubrio,Cadena,Andar
+Almohada|Dormir,Cama,Cabeza,Pluma,Descanso
+Espejo|Reflejo,Imagen,Vidrio,Mirar,Baño
+Ventana|Vidrio,Casa,Abrir,Luz,Cortina
+Semáforo|Rojo,Verde,Amarillo,Tránsito,Cruce
+Ascensor|Piso,Subir,Bajar,Edificio,Botón
+Escalera|Peldaño,Subir,Bajar,Altura,Escalón
+Mochila|Espalda,Escuela,Bolso,Guardar,Correa
+Reloj|Hora,Minuto,Tiempo,Aguja,Pulsera
+Zapato|Pie,Cordón,Suela,Calzado,Caminar
+Sombrero|Cabeza,Ala,Sol,Gorra,Usar
+Cepillo|Pelo,Diente,Cerda,Peinar,Limpiar
+Jabón|Lavar,Espuma,Limpio,Baño,Agua
+Toalla|Secar,Baño,Tela,Ducha,Húmedo
+Perfume|Olor,Fragancia,Frasco,Rociar,Aroma
+Llave|Puerta,Cerradura,Abrir,Cerrar,Metal
+Candado|Llave,Seguridad,Cerrar,Cadena,Código
+Tijera|Cortar,Papel,Hoja,Filo,Mango
+Pegamento|Pegar,Unir,Cola,Adhesivo,Secar
+Lápiz|Escribir,Grafito,Punta,Goma,Dibujar
+Cuaderno|Hoja,Escribir,Escuela,Espiral,Apunte
+Mapa|Lugar,País,Ubicación,Camino,Geografía
+Brújula|Norte,Orientación,Aguja,Sur,Dirección
+Maleta|Viaje,Equipaje,Ropa,Valija,Aeropuerto
+Pasaporte|Viajar,Documento,País,Frontera,Sello
+Avión|Volar,Ala,Piloto,Aeropuerto,Cielo
+Barco|Agua,Mar,Navegar,Puerto,Capitán
+Tren|Vía,Estación,Vagón,Locomotora,Riel
+Camión|Carga,Rueda,Transporte,Chofer,Grande
+Motocicleta|Moto,Casco,Rueda,Motor,Manubrio
+Taxi|Viaje,Chofer,Pasajero,Auto,Tarifa
+Puente|Cruzar,Río,Orilla,Estructura,Unir
+Túnel|Debajo,Oscuro,Pasar,Montaña,Subterráneo
+Playa|Arena,Mar,Sol,Vacaciones,Ola
+Montaña|Altura,Cumbre,Escalar,Nieve,Cerro
+Bosque|Árbol,Naturaleza,Madera,Sendero,Verde
+Desierto|Arena,Calor,Seco,Agua,Cactus
+Isla|Agua,Mar,Tierra,Rodeada,Continente
+Volcán|Lava,Erupción,Fuego,Cráter,Montaña
+Arcoíris|Color,Lluvia,Sol,Cielo,Arco
+Tormenta|Lluvia,Trueno,Rayo,Viento,Nube
+Nieve|Blanco,Frío,Hielo,Invierno,Copo
+Estrella|Cielo,Noche,Brillar,Sol,Constelación
+Luna|Noche,Satélite,Tierra,Cráter,Fase
+Planeta|Espacio,Órbita,Tierra,Sol,Marte
+Flor|Pétalo,Planta,Perfume,Jardín,Ramo
+Semilla|Planta,Crecer,Tierra,Sembrar,Fruto
+Raíz|Árbol,Tierra,Planta,Absorber,Subterránea
+Mariposa|Ala,Insecto,Oruga,Color,Volar
+Abeja|Miel,Picadura,Colmena,Insecto,Flor
+Hormiga|Insecto,Hormiguero,Pequeña,Trabajo,Fila
+Araña|Ocho,Telaraña,Pata,Insecto,Tejer
+Perro|Ladrar,Mascota,Canino,Cola,Hueso
+Gato|Maullar,Mascota,Felino,Bigote,Ronronear
+Caballo|Montar,Relinchar,Crin,Establo,Galope
+Elefante|Trompa,Grande,Colmillo,África,Oreja
+Jirafa|Cuello,Alta,Mancha,África,Animal
+León|Melena,Felino,Rey,Rugir,Selva
+Delfín|Mar,Mamífero,Nadar,Salto,Aleta
+Tiburón|Diente,Mar,Aleta,Depredador,Pez
+Pingüino|Frío,Ave,Antártida,Blanco,Negro
+Tortuga|Caparazón,Lenta,Reptil,Verde,Mar
+Cocodrilo|Reptil,Diente,Río,Pantano,Escama
+Murciélago|Noche,Volar,Cueva,Mamífero,Vampiro
+Conejo|Oreja,Zanahoria,Saltar,Pelaje,Madriguera
+Gallina|Huevo,Granja,Pluma,Gallo,Cacarear
+Vaca|Leche,Granja,Mugir,Cuerno,Ternero
+Pan|Harina,Horno,Miga,Corteza,Levadura
+Queso|Leche,Lácteo,Sándwich,Fermentar,Rallar
+Chocolate|Cacao,Dulce,Tableta,Marrón,Bombón
+Helado|Frío,Dulce,Cucurucho,Crema,Sabor
+Pizza|Masa,Queso,Tomate,Horno,Porción
+Ensalada|Verdura,Lechuga,Tomate,Aceite,Mezclar
+Sopa|Caldo,Cuchara,Caliente,Plato,Líquido
+Huevo|Gallina,Cáscara,Yema,Clara,Freír
+Manzana|Fruta,Rojo,Árbol,Semilla,Computadora
+Banana|Fruta,Amarilla,Cáscara,Mono,Curva
+Limón|Ácido,Cítrico,Amarillo,Jugo,Fruta
+Sandía|Fruta,Verde,Roja,Semilla,Verano
+Zanahoria|Naranja,Verdura,Conejo,Raíz,Ensalada
+Tomate|Rojo,Ensalada,Salsa,Fruto,Semilla
+Papa|Tubérculo,Frita,Puré,Tierra,Almidón
+Cebolla|Llorar,Verdura,Capa,Cortar,Aro
+Cumpleaños|Torta,Vela,Edad,Fiesta,Regalo
+Casamiento|Boda,Novio,Anillo,Vestido,Matrimonio
+Regalo|Sorpresa,Paquete,Obsequio,Cumpleaños,Moño
+Vacaciones|Descanso,Viaje,Verano,Playa,Trabajo
+Hospital|Médico,Enfermo,Enfermero,Salud,Cama
+Farmacia|Remedio,Medicamento,Receta,Salud,Comprar
+Bombero|Fuego,Incendio,Manguera,Rescate,Camión
+Dentista|Diente,Muela,Caries,Boca,Torno
+Cocinero|Comida,Cocina,Chef,Receta,Restaurante
+Jardinero|Planta,Jardín,Regar,Poda,Pasto
+Carpintero|Madera,Mueble,Martillo,Sierra,Clavo
+Fotógrafo|Foto,Cámara,Imagen,Lente,Retrato
+Cartero|Carta,Correo,Entrega,Sobre,Dirección
+Astronauta|Espacio,Cohete,Traje,Luna,Nave
+[argentina]
+Mate|Yerba,Bombilla,Agua,Cebar,Amargo
+Empanada|Masa,Relleno,Repulgue,Carne,Horno
+Asado|Parrilla,Carne,Brasa,Domingo,Chorizo
+Dulce de leche|Leche,Azúcar,Alfajor,Caramelo,Postre
+Alfajor|Galletita,Relleno,Chocolate,Dulce,Merengue
+Milanesa|Carne,Pan rallado,Huevo,Frita,Napolitana
+Locro|Guiso,Maíz,Patria,Poroto,Zapallo
+Choripán|Chorizo,Pan,Parrilla,Chimichurri,Cancha
+Provoleta|Queso,Parrilla,Orégano,Derretir,Asado
+Fainá|Garbanzo,Pizza,Harina,Porción,Redonda
+Fugazzeta|Pizza,Cebolla,Queso,Rellena,Masa
+Medialuna|Desayuno,Facturas,Manteca,Café,Curva
+Tortafrita|Lluvia,Masa,Aceite,Mate,Fritura
+Pastelito|Membrillo,Batata,Hojaldre,Dulce,Patrio
+Humita|Choclo,Chala,Maíz,Relleno,Norte
+Tamales|Chala,Maíz,Carne,Norte,Relleno
+Chimichurri|Salsa,Asado,Perejil,Ajo,Vinagre
+Ferné|Bebida,Cola,Amargo,Córdoba,Alcohol
+Submarino|Chocolate,Leche,Caliente,Taza,Barra
+Sifón|Soda,Gas,Agua,Botella,Pico
+Colectivo|Bondi,Ómnibus,Pasaje,Parada,Línea
+Subte|Subterráneo,Tren,Estación,Túnel,Buenos Aires
+Remís|Auto,Chofer,Viaje,Agencia,Pasajero
+SUBE|Tarjeta,Transporte,Saldo,Viaje,Cargar
+Kiosco|Golosina,Comprar,Revista,Negocio,Caramelo
+Almacén|Barrio,Comida,Negocio,Comprar,Mostrador
+Verdulería|Verdura,Fruta,Comprar,Negocio,Kilo
+Panadería|Pan,Factura,Horno,Negocio,Harina
+Quincho|Asado,Techo,Patio,Parrilla,Reunión
+Potrero|Fútbol,Barrio,Cancha,Pelota,Jugador
+Truco|Carta,Envido,Flor,Ancho,Baraja
+Tango|Baile,Bandoneón,Argentina,Pareja,Gardel
+Folclore|Música,Tradición,Danza,Peña,Guitarra
+Chacarera|Baile,Folclore,Santiago,Danza,Zapateo
+Malambo|Zapateo,Gaucho,Bota,Danza,Bombo
+Bandoneón|Tango,Instrumento,Fuelle,Música,Tecla
+Bombo legüero|Percusión,Folclore,Cuero,Golpe,Instrumento
+Gaucho|Campo,Caballo,Bombacha,Tradición,Facón
+Poncho|Abrigo,Tela,Gaucho,Hombro,Lana
+Bombacha de campo|Pantalón,Gaucho,Rural,Ancha,Ropa
+Alpargata|Calzado,Lona,Suela,Pie,Campo
+Obelisco|Monumento,Buenos Aires,Altura,Corrientes,9 de Julio
+Casa Rosada|Gobierno,Presidente,Buenos Aires,Plaza de Mayo,Edificio
+Cabildo|Mayo,Colonial,Historia,Plaza,Revolución
+Caminito|La Boca,Color,Calle,Tango,Buenos Aires
+La Pampa|Provincia,Llanura,Campo,Argentina,Santa Rosa
+Patagonia|Sur,Argentina,Frío,Región,Paisaje
+Iguazú|Catarata,Misiones,Agua,Brasil,Garganta
+Aconcagua|Montaña,Mendoza,Cumbre,Altura,Andes
+Perito Moreno|Glaciar,Hielo,Santa Cruz,Ruptura,Patagonia
+Quebrada de Humahuaca|Jujuy,Norte,Cerro,Valle,Colores
+Puna|Altura,Meseta,Norte,Seco,Andes
+Carpincho|Roedor,Agua,Animal,Grande,Humedal
+Hornero|Ave,Nido,Barro,Pájaro,Nacional
+Yaguareté|Felino,Mancha,Selva,Jaguar,Animal
+Ceibo|Árbol,Flor,Rojo,Nacional,Planta
+Jacarandá|Árbol,Violeta,Flor,Primavera,Calle
+Escarapela|Celeste,Blanco,Patria,Cinta,Pequeña
+Guardapolvo|Escuela,Blanco,Alumno,Prenda,Uniforme
+Picada|Queso,Salame,Aceituna,Comer,Tabla
+[cultura]
+Película|Cine,Actor,Director,Pantalla,Film
+Escenario|Teatro,Actor,Telón,Obra,Público
+Videojuego|Jugar,Consola,Control,Pantalla,Nivel
+Guitarra|Cuerda,Instrumento,Música,Tocar,Acústica
+Piano|Tecla,Instrumento,Música,Blanco,Negro
+Batería musical|Tambor,Platillo,Percusión,Baqueta,Ritmo
+Violín|Arco,Cuerda,Instrumento,Orquesta,Música
+Flauta|Soplar,Viento,Instrumento,Agujero,Música
+Saxofón|Jazz,Viento,Instrumento,Soplar,Metal
+Micrófono|Voz,Amplificar,Cantar,Sonido,Escenario
+Auriculares|Oído,Música,Escuchar,Sonido,Cable
+Concierto|Música,Banda,Vivo,Escenario,Público
+Orquesta|Músico,Director,Instrumento,Clásica,Concierto
+Cantante|Voz,Canción,Música,Micrófono,Cantar
+Director de cine|Película,Actor,Cámara,Rodar,Filmación
+Guion|Diálogo,Historia,Película,Escribir,Escena
+Subtítulo|Texto,Traducción,Pantalla,Leer,Idioma
+Documental|Realidad,Film,Información,Historia,Investigación
+Animación|Dibujo,Movimiento,Película,Caricatura,Cuadro
+Comedia|Risa,Humor,Chiste,Gracioso,Película
+Suspenso|Tensión,Misterio,Intriga,Espera,Thriller
+Novela|Libro,Historia,Capítulo,Autor,Ficción
+Poesía|Verso,Rima,Poema,Estrofa,Escribir
+Historieta|Viñeta,Dibujo,Globo,Cómic,Personaje
+Fábula|Moraleja,Animal,Relato,Enseñanza,Cuento
+Leyenda|Tradición,Relato,Mito,Historia,Popular
+Museo|Arte,Exposición,Obra,Historia,Visitar
+Escultura|Estatua,Forma,Arte,Piedra,Tallar
+Pintura|Pincel,Color,Lienzo,Arte,Cuadro
+Acuarela|Agua,Pintura,Color,Papel,Pincel
+Origami|Papel,Doblar,Figura,Japón,Grulla
+Cerámica|Barro,Arcilla,Horno,Vasija,Arte
+Grafiti|Pared,Aerosol,Pintar,Calle,Mural
+Disfraz|Ropa,Personaje,Carnaval,Traje,Fiesta
+Magia|Truco,Ilusión,Mago,Conejo,Sombrero
+Circo|Carpa,Payaso,Acrobacia,Malabarista,Espectáculo
+Malabares|Pelota,Lanzar,Mano,Circo,Equilibrio
+Títere|Muñeco,Mano,Teatro,Hilo,Personaje
+Marioneta|Hilo,Muñeco,Teatro,Mover,Madera
+Ajedrez|Rey,Reina,Tablero,Jaque,Pieza
+Dominó|Ficha,Punto,Mesa,Doble,Juego
+Rompecabezas|Pieza,Armar,Imagen,Encajar,Completar
+Karaoke|Cantar,Música,Letra,Micrófono,Pantalla
+Festival|Música,Evento,Artista,Escenario,Público
+Podcast|Audio,Episodio,Escuchar,Voz,Programa
+Radio|Escuchar,Frecuencia,Locutor,Emisora,Antena
+Televisión|Pantalla,Canal,Programa,Control,Ver
+Fotografía|Cámara,Imagen,Lente,Retrato,Foto
+Vinilo|Disco,Música,Tocadiscos,Aguja,Surco
+Libro electrónico|Leer,Pantalla,Digital,Texto,Lector
+[deportes]
+Arquero|Arco,Fútbol,Atajar,Guante,Gol
+Natación|Agua,Pileta,Nadar,Estilo,Braza
+Medalla|Premio,Oro,Plata,Bronce,Podio
+Fútbol|Pelota,Gol,Cancha,Equipo,Arco
+Básquet|Aro,Pelota,Triple,Canasta,Driblar
+Vóley|Red,Pelota,Saque,Remate,Equipo
+Tenis|Raqueta,Pelota,Red,Saque,Set
+Rugby|Ovalada,Try,Tackle,Equipo,Pelota
+Hockey|Palo,Bocha,Cancha,Gol,Patín
+Handball|Mano,Arco,Pelota,Gol,Equipo
+Golf|Palo,Hoyo,Pelota,Césped,Campo
+Béisbol|Bate,Base,Pelota,Lanzador,Guante
+Boxeo|Guante,Ring,Puño,Golpe,Nocaut
+Judo|Kimono,Lucha,Arte marcial,Tatami,Llave
+Karate|Patada,Arte marcial,Cinturón,Dojo,Golpe
+Esgrima|Espada,Florete,Máscara,Combate,Estocada
+Atletismo|Correr,Pista,Salto,Lanzamiento,Estadio
+Maratón|Correr,Kilómetro,Carrera,Resistencia,Meta
+Ciclismo|Bicicleta,Pedal,Rueda,Carrera,Casco
+Gimnasia|Salto,Equilibrio,Acrobacia,Anilla,Suelo
+Surf|Ola,Tabla,Mar,Equilibrio,Playa
+Esquí|Nieve,Montaña,Bastón,Descenso,Bota
+Snowboard|Tabla,Nieve,Montaña,Deslizar,Invierno
+Patinaje|Rueda,Hielo,Patín,Deslizar,Pista
+Escalada|Montaña,Pared,Arnés,Cuerda,Subir
+Remo|Bote,Agua,Pala,Río,Regata
+Vela deportiva|Barco,Viento,Mar,Regata,Navegar
+Buceo|Agua,Profundidad,Oxígeno,Máscara,Sumergir
+Triatlón|Nadar,Correr,Bicicleta,Tres,Resistencia
+Pádel|Paleta,Pelota,Pared,Cancha,Pareja
+Árbitro|Silbato,Regla,Falta,Partido,Tarjeta
+Entrenador|Equipo,Técnico,Práctica,Dirigir,Estrategia
+Estadio|Cancha,Tribuna,Público,Partido,Deporte
+Hincha|Equipo,Alentar,Tribuna,Pasión,Bandera
+Penal|Falta,Arco,Remate,Área,Once metros
+Tiro libre|Falta,Barrera,Remate,Arco,Pelota
+Fuera de juego|Adelantado,Posición,Fútbol,Línea,Offside
+Córner|Esquina,Fútbol,Saque,Arco,Pelota
+Trofeo|Copa,Premio,Ganador,Competencia,Campeón
+Podio|Medalla,Primero,Segundo,Tercero,Ganador
+Relevo|Posta,Equipo,Testigo,Carrera,Turno
+Salto en largo|Arena,Correr,Distancia,Atletismo,Caer
+Lanzamiento de jabalina|Atletismo,Distancia,Lanza,Arrojar,Brazo
+Salto con garrocha|Pértiga,Altura,Atletismo,Barra,Saltar
+Calentamiento|Preparar,Músculo,Ejercicio,Antes,Lesión
+Estiramiento|Flexibilidad,Músculo,Elongar,Cuerpo,Ejercicio
+Flexiones|Brazo,Suelo,Fuerza,Pecho,Ejercicio
+Abdominales|Vientre,Ejercicio,Músculo,Tronco,Fuerza
+Sentadilla|Pierna,Rodilla,Bajar,Ejercicio,Fuerza
+Salto a la soga|Cuerda,Saltar,Girar,Ejercicio,Pie
+[tecnologia]
+Contraseña|Clave,Seguridad,Acceso,Secreto,Usuario
+Teclado|Tecla,Escribir,Letra,Computadora,Enter
+Navegador|Internet,Web,Página,Pestaña,Chrome
+Computadora|Pantalla,Teclado,Procesador,PC,Programa
+Celular|Teléfono,Llamar,Pantalla,Mensaje,Portátil
+Tableta|Pantalla,Táctil,Portátil,Dispositivo,Aplicación
+Ratón|Mouse,Clic,Puntero,Computadora,Botón
+Monitor|Pantalla,Imagen,Computadora,Ver,Escritorio
+Impresora|Papel,Tinta,Imprimir,Documento,Copia
+Escáner|Digitalizar,Documento,Imagen,Papel,Leer
+Router|Internet,Red,Wifi,Conexión,Señal
+Wifi|Inalámbrico,Internet,Red,Señal,Router
+Bluetooth|Inalámbrico,Conectar,Dispositivo,Corto alcance,Auricular
+Cable USB|Conectar,Puerto,Cargar,Datos,Enchufe
+Batería|Energía,Carga,Duración,Pila,Electricidad
+Cargador|Batería,Enchufe,Energía,Cable,Celular
+Aplicación|Programa,Celular,Instalar,Software,App
+Correo electrónico|Email,Mensaje,Bandeja,Enviar,Dirección
+Videollamada|Cámara,Hablar,Pantalla,Internet,Reunión
+Notificación|Aviso,Mensaje,Alerta,Sonido,Aplicación
+Copia de seguridad|Respaldo,Datos,Guardar,Recuperar,Backup
+Nube|Internet,Almacenamiento,Servidor,Archivo,Remoto
+Servidor|Red,Datos,Cliente,Computadora,Servicio
+Base de datos|Tabla,Registro,Información,Consulta,Almacenar
+Programación|Código,Software,Lenguaje,Desarrollar,Algoritmo
+Algoritmo|Paso,Instrucción,Problema,Secuencia,Resolver
+Código QR|Escanear,Cuadrado,Cámara,Enlace,Patrón
+Enlace|Link,Página,Clic,Dirección,Web
+Buscador|Buscar,Google,Resultado,Internet,Consulta
+Pestaña|Navegador,Ventana,Abrir,Página,Web
+Archivo|Documento,Guardar,Carpeta,Nombre,Extensión
+Carpeta|Archivo,Organizar,Directorio,Guardar,Documento
+Descarga|Internet,Archivo,Bajar,Guardar,Transferir
+Actualización|Versión,Mejora,Instalar,Software,Nueva
+Antivirus|Virus,Protección,Malware,Seguridad,Programa
+Firewall|Seguridad,Red,Tráfico,Bloquear,Cortafuegos
+Inteligencia artificial|Aprender,Modelo,Datos,Automático,Algoritmo
+Robot|Máquina,Automático,Programar,Metal,Movimiento
+Realidad virtual|Gafas,Inmersión,Mundo,Simulación,Digital
+Captura de pantalla|Imagen,Foto,Monitor,Guardar,Screenshot

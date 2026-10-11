@@ -1,0 +1,23 @@
+{
+  "name": "palabras-prohibidas-react",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && node scripts/generate-sw.mjs",
+    "preview": "vite preview",
+    "test": "npm run build && node --test tests/*.test.js"
+  },
+  "dependencies": {
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "6.1.2",
+    "vite": "8.3.4"
+  }
+}

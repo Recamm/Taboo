@@ -1,0 +1,722 @@
+[
+  {
+    "id": "argentina-001",
+    "target": "Mate",
+    "forbidden": [
+      "Yerba",
+      "Bombilla",
+      "Agua",
+      "Cebar",
+      "Amargo"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-002",
+    "target": "Empanada",
+    "forbidden": [
+      "Masa",
+      "Relleno",
+      "Repulgue",
+      "Carne",
+      "Horno"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-003",
+    "target": "Asado",
+    "forbidden": [
+      "Parrilla",
+      "Carne",
+      "Brasa",
+      "Domingo",
+      "Chorizo"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-004",
+    "target": "Dulce de leche",
+    "forbidden": [
+      "Leche",
+      "Azúcar",
+      "Alfajor",
+      "Caramelo",
+      "Postre"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-005",
+    "target": "Alfajor",
+    "forbidden": [
+      "Galletita",
+      "Relleno",
+      "Chocolate",
+      "Dulce",
+      "Merengue"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-006",
+    "target": "Milanesa",
+    "forbidden": [
+      "Carne",
+      "Pan rallado",
+      "Huevo",
+      "Frita",
+      "Napolitana"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-007",
+    "target": "Locro",
+    "forbidden": [
+      "Guiso",
+      "Maíz",
+      "Patria",
+      "Poroto",
+      "Zapallo"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-008",
+    "target": "Choripán",
+    "forbidden": [
+      "Chorizo",
+      "Pan",
+      "Parrilla",
+      "Chimichurri",
+      "Cancha"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-009",
+    "target": "Provoleta",
+    "forbidden": [
+      "Queso",
+      "Parrilla",
+      "Orégano",
+      "Derretir",
+      "Asado"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-010",
+    "target": "Fainá",
+    "forbidden": [
+      "Garbanzo",
+      "Pizza",
+      "Harina",
+      "Porción",
+      "Redonda"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-011",
+    "target": "Fugazzeta",
+    "forbidden": [
+      "Pizza",
+      "Cebolla",
+      "Queso",
+      "Rellena",
+      "Masa"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-012",
+    "target": "Medialuna",
+    "forbidden": [
+      "Desayuno",
+      "Facturas",
+      "Manteca",
+      "Café",
+      "Curva"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-013",
+    "target": "Tortafrita",
+    "forbidden": [
+      "Lluvia",
+      "Masa",
+      "Aceite",
+      "Mate",
+      "Fritura"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-014",
+    "target": "Pastelito",
+    "forbidden": [
+      "Membrillo",
+      "Batata",
+      "Hojaldre",
+      "Dulce",
+      "Patrio"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-015",
+    "target": "Humita",
+    "forbidden": [
+      "Choclo",
+      "Chala",
+      "Maíz",
+      "Relleno",
+      "Norte"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-016",
+    "target": "Tamales",
+    "forbidden": [
+      "Chala",
+      "Maíz",
+      "Carne",
+      "Norte",
+      "Relleno"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-017",
+    "target": "Chimichurri",
+    "forbidden": [
+      "Salsa",
+      "Asado",
+      "Perejil",
+      "Ajo",
+      "Vinagre"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-018",
+    "target": "Ferné",
+    "forbidden": [
+      "Bebida",
+      "Cola",
+      "Amargo",
+      "Córdoba",
+      "Alcohol"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-019",
+    "target": "Submarino",
+    "forbidden": [
+      "Chocolate",
+      "Leche",
+      "Caliente",
+      "Taza",
+      "Barra"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-020",
+    "target": "Sifón",
+    "forbidden": [
+      "Soda",
+      "Gas",
+      "Agua",
+      "Botella",
+      "Pico"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-021",
+    "target": "Colectivo",
+    "forbidden": [
+      "Bondi",
+      "Ómnibus",
+      "Pasaje",
+      "Parada",
+      "Línea"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-022",
+    "target": "Subte",
+    "forbidden": [
+      "Subterráneo",
+      "Tren",
+      "Estación",
+      "Túnel",
+      "Buenos Aires"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-023",
+    "target": "Remís",
+    "forbidden": [
+      "Auto",
+      "Chofer",
+      "Viaje",
+      "Agencia",
+      "Pasajero"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-024",
+    "target": "SUBE",
+    "forbidden": [
+      "Tarjeta",
+      "Transporte",
+      "Saldo",
+      "Viaje",
+      "Cargar"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-025",
+    "target": "Kiosco",
+    "forbidden": [
+      "Golosina",
+      "Comprar",
+      "Revista",
+      "Negocio",
+      "Caramelo"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-026",
+    "target": "Almacén",
+    "forbidden": [
+      "Barrio",
+      "Comida",
+      "Negocio",
+      "Comprar",
+      "Mostrador"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-027",
+    "target": "Verdulería",
+    "forbidden": [
+      "Verdura",
+      "Fruta",
+      "Comprar",
+      "Negocio",
+      "Kilo"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-028",
+    "target": "Panadería",
+    "forbidden": [
+      "Pan",
+      "Factura",
+      "Horno",
+      "Negocio",
+      "Harina"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-029",
+    "target": "Quincho",
+    "forbidden": [
+      "Asado",
+      "Techo",
+      "Patio",
+      "Parrilla",
+      "Reunión"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-030",
+    "target": "Potrero",
+    "forbidden": [
+      "Fútbol",
+      "Barrio",
+      "Cancha",
+      "Pelota",
+      "Jugador"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-031",
+    "target": "Truco",
+    "forbidden": [
+      "Carta",
+      "Envido",
+      "Flor",
+      "Ancho",
+      "Baraja"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-032",
+    "target": "Tango",
+    "forbidden": [
+      "Baile",
+      "Bandoneón",
+      "Argentina",
+      "Pareja",
+      "Gardel"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-033",
+    "target": "Folclore",
+    "forbidden": [
+      "Música",
+      "Tradición",
+      "Danza",
+      "Peña",
+      "Guitarra"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-034",
+    "target": "Chacarera",
+    "forbidden": [
+      "Baile",
+      "Folclore",
+      "Santiago",
+      "Danza",
+      "Zapateo"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-035",
+    "target": "Malambo",
+    "forbidden": [
+      "Zapateo",
+      "Gaucho",
+      "Bota",
+      "Danza",
+      "Bombo"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-036",
+    "target": "Bandoneón",
+    "forbidden": [
+      "Tango",
+      "Instrumento",
+      "Fuelle",
+      "Música",
+      "Tecla"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-037",
+    "target": "Bombo legüero",
+    "forbidden": [
+      "Percusión",
+      "Folclore",
+      "Cuero",
+      "Golpe",
+      "Instrumento"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-038",
+    "target": "Gaucho",
+    "forbidden": [
+      "Campo",
+      "Caballo",
+      "Bombacha",
+      "Tradición",
+      "Facón"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-039",
+    "target": "Poncho",
+    "forbidden": [
+      "Abrigo",
+      "Tela",
+      "Gaucho",
+      "Hombro",
+      "Lana"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-040",
+    "target": "Bombacha de campo",
+    "forbidden": [
+      "Pantalón",
+      "Gaucho",
+      "Rural",
+      "Ancha",
+      "Ropa"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-041",
+    "target": "Alpargata",
+    "forbidden": [
+      "Calzado",
+      "Lona",
+      "Suela",
+      "Pie",
+      "Campo"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-042",
+    "target": "Obelisco",
+    "forbidden": [
+      "Monumento",
+      "Buenos Aires",
+      "Altura",
+      "Corrientes",
+      "9 de Julio"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-043",
+    "target": "Casa Rosada",
+    "forbidden": [
+      "Gobierno",
+      "Presidente",
+      "Buenos Aires",
+      "Plaza de Mayo",
+      "Edificio"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-044",
+    "target": "Cabildo",
+    "forbidden": [
+      "Mayo",
+      "Colonial",
+      "Historia",
+      "Plaza",
+      "Revolución"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-045",
+    "target": "Caminito",
+    "forbidden": [
+      "La Boca",
+      "Color",
+      "Calle",
+      "Tango",
+      "Buenos Aires"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-046",
+    "target": "La Pampa",
+    "forbidden": [
+      "Provincia",
+      "Llanura",
+      "Campo",
+      "Argentina",
+      "Santa Rosa"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-047",
+    "target": "Patagonia",
+    "forbidden": [
+      "Sur",
+      "Argentina",
+      "Frío",
+      "Región",
+      "Paisaje"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-048",
+    "target": "Iguazú",
+    "forbidden": [
+      "Catarata",
+      "Misiones",
+      "Agua",
+      "Brasil",
+      "Garganta"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-049",
+    "target": "Aconcagua",
+    "forbidden": [
+      "Montaña",
+      "Mendoza",
+      "Cumbre",
+      "Altura",
+      "Andes"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-050",
+    "target": "Perito Moreno",
+    "forbidden": [
+      "Glaciar",
+      "Hielo",
+      "Santa Cruz",
+      "Ruptura",
+      "Patagonia"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-051",
+    "target": "Quebrada de Humahuaca",
+    "forbidden": [
+      "Jujuy",
+      "Norte",
+      "Cerro",
+      "Valle",
+      "Colores"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-052",
+    "target": "Puna",
+    "forbidden": [
+      "Altura",
+      "Meseta",
+      "Norte",
+      "Seco",
+      "Andes"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-053",
+    "target": "Carpincho",
+    "forbidden": [
+      "Roedor",
+      "Agua",
+      "Animal",
+      "Grande",
+      "Humedal"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-054",
+    "target": "Hornero",
+    "forbidden": [
+      "Ave",
+      "Nido",
+      "Barro",
+      "Pájaro",
+      "Nacional"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-055",
+    "target": "Yaguareté",
+    "forbidden": [
+      "Felino",
+      "Mancha",
+      "Selva",
+      "Jaguar",
+      "Animal"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-056",
+    "target": "Ceibo",
+    "forbidden": [
+      "Árbol",
+      "Flor",
+      "Rojo",
+      "Nacional",
+      "Planta"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-057",
+    "target": "Jacarandá",
+    "forbidden": [
+      "Árbol",
+      "Violeta",
+      "Flor",
+      "Primavera",
+      "Calle"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-058",
+    "target": "Escarapela",
+    "forbidden": [
+      "Celeste",
+      "Blanco",
+      "Patria",
+      "Cinta",
+      "Pequeña"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-059",
+    "target": "Guardapolvo",
+    "forbidden": [
+      "Escuela",
+      "Blanco",
+      "Alumno",
+      "Prenda",
+      "Uniforme"
+    ],
+    "vocabulary": "argentina"
+  },
+  {
+    "id": "argentina-060",
+    "target": "Picada",
+    "forbidden": [
+      "Queso",
+      "Salame",
+      "Aceituna",
+      "Comer",
+      "Tabla"
+    ],
+    "vocabulary": "argentina"
+  }
+]

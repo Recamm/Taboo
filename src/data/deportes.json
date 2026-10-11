@@ -1,0 +1,602 @@
+[
+  {
+    "id": "deportes-001",
+    "target": "Arquero",
+    "forbidden": [
+      "Arco",
+      "Fútbol",
+      "Atajar",
+      "Guante",
+      "Gol"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-002",
+    "target": "Natación",
+    "forbidden": [
+      "Agua",
+      "Pileta",
+      "Nadar",
+      "Estilo",
+      "Braza"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-003",
+    "target": "Medalla",
+    "forbidden": [
+      "Premio",
+      "Oro",
+      "Plata",
+      "Bronce",
+      "Podio"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-004",
+    "target": "Fútbol",
+    "forbidden": [
+      "Pelota",
+      "Gol",
+      "Cancha",
+      "Equipo",
+      "Arco"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-005",
+    "target": "Básquet",
+    "forbidden": [
+      "Aro",
+      "Pelota",
+      "Triple",
+      "Canasta",
+      "Driblar"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-006",
+    "target": "Vóley",
+    "forbidden": [
+      "Red",
+      "Pelota",
+      "Saque",
+      "Remate",
+      "Equipo"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-007",
+    "target": "Tenis",
+    "forbidden": [
+      "Raqueta",
+      "Pelota",
+      "Red",
+      "Saque",
+      "Set"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-008",
+    "target": "Rugby",
+    "forbidden": [
+      "Ovalada",
+      "Try",
+      "Tackle",
+      "Equipo",
+      "Pelota"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-009",
+    "target": "Hockey",
+    "forbidden": [
+      "Palo",
+      "Bocha",
+      "Cancha",
+      "Gol",
+      "Patín"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-010",
+    "target": "Handball",
+    "forbidden": [
+      "Mano",
+      "Arco",
+      "Pelota",
+      "Gol",
+      "Equipo"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-011",
+    "target": "Golf",
+    "forbidden": [
+      "Palo",
+      "Hoyo",
+      "Pelota",
+      "Césped",
+      "Campo"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-012",
+    "target": "Béisbol",
+    "forbidden": [
+      "Bate",
+      "Base",
+      "Pelota",
+      "Lanzador",
+      "Guante"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-013",
+    "target": "Boxeo",
+    "forbidden": [
+      "Guante",
+      "Ring",
+      "Puño",
+      "Golpe",
+      "Nocaut"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-014",
+    "target": "Judo",
+    "forbidden": [
+      "Kimono",
+      "Lucha",
+      "Arte marcial",
+      "Tatami",
+      "Llave"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-015",
+    "target": "Karate",
+    "forbidden": [
+      "Patada",
+      "Arte marcial",
+      "Cinturón",
+      "Dojo",
+      "Golpe"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-016",
+    "target": "Esgrima",
+    "forbidden": [
+      "Espada",
+      "Florete",
+      "Máscara",
+      "Combate",
+      "Estocada"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-017",
+    "target": "Atletismo",
+    "forbidden": [
+      "Correr",
+      "Pista",
+      "Salto",
+      "Lanzamiento",
+      "Estadio"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-018",
+    "target": "Maratón",
+    "forbidden": [
+      "Correr",
+      "Kilómetro",
+      "Carrera",
+      "Resistencia",
+      "Meta"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-019",
+    "target": "Ciclismo",
+    "forbidden": [
+      "Bicicleta",
+      "Pedal",
+      "Rueda",
+      "Carrera",
+      "Casco"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-020",
+    "target": "Gimnasia",
+    "forbidden": [
+      "Salto",
+      "Equilibrio",
+      "Acrobacia",
+      "Anilla",
+      "Suelo"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-021",
+    "target": "Surf",
+    "forbidden": [
+      "Ola",
+      "Tabla",
+      "Mar",
+      "Equilibrio",
+      "Playa"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-022",
+    "target": "Esquí",
+    "forbidden": [
+      "Nieve",
+      "Montaña",
+      "Bastón",
+      "Descenso",
+      "Bota"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-023",
+    "target": "Snowboard",
+    "forbidden": [
+      "Tabla",
+      "Nieve",
+      "Montaña",
+      "Deslizar",
+      "Invierno"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-024",
+    "target": "Patinaje",
+    "forbidden": [
+      "Rueda",
+      "Hielo",
+      "Patín",
+      "Deslizar",
+      "Pista"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-025",
+    "target": "Escalada",
+    "forbidden": [
+      "Montaña",
+      "Pared",
+      "Arnés",
+      "Cuerda",
+      "Subir"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-026",
+    "target": "Remo",
+    "forbidden": [
+      "Bote",
+      "Agua",
+      "Pala",
+      "Río",
+      "Regata"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-027",
+    "target": "Vela deportiva",
+    "forbidden": [
+      "Barco",
+      "Viento",
+      "Mar",
+      "Regata",
+      "Navegar"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-028",
+    "target": "Buceo",
+    "forbidden": [
+      "Agua",
+      "Profundidad",
+      "Oxígeno",
+      "Máscara",
+      "Sumergir"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-029",
+    "target": "Triatlón",
+    "forbidden": [
+      "Nadar",
+      "Correr",
+      "Bicicleta",
+      "Tres",
+      "Resistencia"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-030",
+    "target": "Pádel",
+    "forbidden": [
+      "Paleta",
+      "Pelota",
+      "Pared",
+      "Cancha",
+      "Pareja"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-031",
+    "target": "Árbitro",
+    "forbidden": [
+      "Silbato",
+      "Regla",
+      "Falta",
+      "Partido",
+      "Tarjeta"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-032",
+    "target": "Entrenador",
+    "forbidden": [
+      "Equipo",
+      "Técnico",
+      "Práctica",
+      "Dirigir",
+      "Estrategia"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-033",
+    "target": "Estadio",
+    "forbidden": [
+      "Cancha",
+      "Tribuna",
+      "Público",
+      "Partido",
+      "Deporte"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-034",
+    "target": "Hincha",
+    "forbidden": [
+      "Equipo",
+      "Alentar",
+      "Tribuna",
+      "Pasión",
+      "Bandera"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-035",
+    "target": "Penal",
+    "forbidden": [
+      "Falta",
+      "Arco",
+      "Remate",
+      "Área",
+      "Once metros"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-036",
+    "target": "Tiro libre",
+    "forbidden": [
+      "Falta",
+      "Barrera",
+      "Remate",
+      "Arco",
+      "Pelota"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-037",
+    "target": "Fuera de juego",
+    "forbidden": [
+      "Adelantado",
+      "Posición",
+      "Fútbol",
+      "Línea",
+      "Offside"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-038",
+    "target": "Córner",
+    "forbidden": [
+      "Esquina",
+      "Fútbol",
+      "Saque",
+      "Arco",
+      "Pelota"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-039",
+    "target": "Trofeo",
+    "forbidden": [
+      "Copa",
+      "Premio",
+      "Ganador",
+      "Competencia",
+      "Campeón"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-040",
+    "target": "Podio",
+    "forbidden": [
+      "Medalla",
+      "Primero",
+      "Segundo",
+      "Tercero",
+      "Ganador"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-041",
+    "target": "Relevo",
+    "forbidden": [
+      "Posta",
+      "Equipo",
+      "Testigo",
+      "Carrera",
+      "Turno"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-042",
+    "target": "Salto en largo",
+    "forbidden": [
+      "Arena",
+      "Correr",
+      "Distancia",
+      "Atletismo",
+      "Caer"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-043",
+    "target": "Lanzamiento de jabalina",
+    "forbidden": [
+      "Atletismo",
+      "Distancia",
+      "Lanza",
+      "Arrojar",
+      "Brazo"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-044",
+    "target": "Salto con garrocha",
+    "forbidden": [
+      "Pértiga",
+      "Altura",
+      "Atletismo",
+      "Barra",
+      "Saltar"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-045",
+    "target": "Calentamiento",
+    "forbidden": [
+      "Preparar",
+      "Músculo",
+      "Ejercicio",
+      "Antes",
+      "Lesión"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-046",
+    "target": "Estiramiento",
+    "forbidden": [
+      "Flexibilidad",
+      "Músculo",
+      "Elongar",
+      "Cuerpo",
+      "Ejercicio"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-047",
+    "target": "Flexiones",
+    "forbidden": [
+      "Brazo",
+      "Suelo",
+      "Fuerza",
+      "Pecho",
+      "Ejercicio"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-048",
+    "target": "Abdominales",
+    "forbidden": [
+      "Vientre",
+      "Ejercicio",
+      "Músculo",
+      "Tronco",
+      "Fuerza"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-049",
+    "target": "Sentadilla",
+    "forbidden": [
+      "Pierna",
+      "Rodilla",
+      "Bajar",
+      "Ejercicio",
+      "Fuerza"
+    ],
+    "vocabulary": "deportes"
+  },
+  {
+    "id": "deportes-050",
+    "target": "Salto a la soga",
+    "forbidden": [
+      "Cuerda",
+      "Saltar",
+      "Girar",
+      "Ejercicio",
+      "Pie"
+    ],
+    "vocabulary": "deportes"
+  }
+]
